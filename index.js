@@ -10,3 +10,10 @@ fetch('https://apis.scrimba.com/unsplash/photos/random?orientation=landscape&que
    document.getElementById("author").textContent = `By: ${data.user.name}`
 
    })
+
+
+   
+
+
+
+
